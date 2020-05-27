@@ -1,0 +1,3 @@
+设置全局国内镜像的方法
+
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
